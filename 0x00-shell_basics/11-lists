@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . .. /boot -Rald
+ls -Ral .. /boot -Rald
