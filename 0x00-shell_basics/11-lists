@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -Ral
-ls .. -Rald
-ls /boot -ald
+ls . ../ /boot -Ral
